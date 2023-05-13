@@ -1,0 +1,15 @@
+/Users/chengyuliu/Projects/workflow/workflow.demo/bin/Debug/net7.0/workflow.demo
+/Users/chengyuliu/Projects/workflow/workflow.demo/bin/Debug/net7.0/workflow.demo.deps.json
+/Users/chengyuliu/Projects/workflow/workflow.demo/bin/Debug/net7.0/workflow.demo.runtimeconfig.json
+/Users/chengyuliu/Projects/workflow/workflow.demo/bin/Debug/net7.0/workflow.demo.dll
+/Users/chengyuliu/Projects/workflow/workflow.demo/bin/Debug/net7.0/workflow.demo.pdb
+/Users/chengyuliu/Projects/workflow/workflow.demo/obj/Debug/net7.0/workflow.demo.csproj.AssemblyReference.cache
+/Users/chengyuliu/Projects/workflow/workflow.demo/obj/Debug/net7.0/workflow.demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chengyuliu/Projects/workflow/workflow.demo/obj/Debug/net7.0/workflow.demo.AssemblyInfoInputs.cache
+/Users/chengyuliu/Projects/workflow/workflow.demo/obj/Debug/net7.0/workflow.demo.AssemblyInfo.cs
+/Users/chengyuliu/Projects/workflow/workflow.demo/obj/Debug/net7.0/workflow.demo.csproj.CoreCompileInputs.cache
+/Users/chengyuliu/Projects/workflow/workflow.demo/obj/Debug/net7.0/workflow.demo.dll
+/Users/chengyuliu/Projects/workflow/workflow.demo/obj/Debug/net7.0/refint/workflow.demo.dll
+/Users/chengyuliu/Projects/workflow/workflow.demo/obj/Debug/net7.0/workflow.demo.pdb
+/Users/chengyuliu/Projects/workflow/workflow.demo/obj/Debug/net7.0/workflow.demo.genruntimeconfig.cache
+/Users/chengyuliu/Projects/workflow/workflow.demo/obj/Debug/net7.0/ref/workflow.demo.dll
