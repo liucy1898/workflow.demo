@@ -2,7 +2,7 @@
 namespace demo
 {
 
-    class engine
+    class SerialTaskEngine
     {
 
         List<task> tasks = new List<task>();
@@ -75,9 +75,9 @@ namespace demo
     class task
     {
 
-        private engine taskEngine;
+        private SerialTaskEngine taskEngine;
 
-        public task(engine engine)
+        public task(SerialTaskEngine engine)
         {
             taskEngine = engine;
         }
